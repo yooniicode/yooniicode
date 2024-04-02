@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooniicode)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
+![](https://dcbadge.vercel.app/api/shield/yooniiz)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/yooniicode)
 <!--
 **yooniicode/yooniicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
