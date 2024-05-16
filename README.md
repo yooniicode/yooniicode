@@ -1,15 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooniicode)](https://github.com/anuraghazra/github-readme-stats)
-'''
-<details>	
-   <summary>Hi there 👋</summary>
-   <br/>
- <ul>
-   <li>hi</li>
-   <li>내용2</li>
- </ul>
-  </details>
-  '''
+
 
 <p align="left">
   <a href="https://www.instagram.com/pdxvhdx/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg"></a>
@@ -18,7 +9,6 @@
 
 <p align="left">
   <br>
-  <a href="https://www.instagram.com/pdxvhdx/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg"></a>
   <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg">
   <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
