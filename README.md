@@ -1,17 +1,18 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooniicode)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**yooniicode/yooniicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.instagram.com/pdxvhdx/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg"></a>
+  <a href="https://www.yoonicode.blog/"><img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+  <a href="https://www.instagram.com/pdxvhdx/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg"></a>
+  <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+  <img src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg">
+  <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+  <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
+  <img src = "https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg">
+
+</p>
