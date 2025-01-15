@@ -26,6 +26,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg", alt="C Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React Badge">
 </p>
 
@@ -39,7 +40,7 @@
 
 ---
 
-#### ✉️ Contact Me  
+#### ✉️ Contact Me !
 <p align="left">
   <a href="mailto:estelle0329@ewha.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=estelle0329@ewha.ac.kr" alt="Gmail Badge">
