@@ -7,10 +7,10 @@
 #### 📱 Social Media  
 <p align="left">
   <a href="https://www.instagram.com/pdxvhdx/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://www.yoonicode.blog/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" alt="Notion Badge">
+  <a href="https://www.yoonicode.site/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion Badge">
   </a>
 </p>
 
@@ -18,24 +18,24 @@
 
 #### 🎨 Tech Stack  
 <p align="left">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg" alt="Illustrator Badge">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma Badge">
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" alt="Illustrator Badge">
 </p>
 
 <p align="left">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg", alt="C Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C Badge">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React Badge">
 </p>
 
 <p align="left">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" alt="Node.js Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" alt="AWS Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch2.svg" alt="PyTorch Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow2.svg", alt="Tensorflow Badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch Badge">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="Tensorflow Badge">
 </p>
 
 ---
@@ -43,7 +43,7 @@
 #### ✉️ Contact Me !
 <p align="left">
   <a href="mailto:estelle0329@ewha.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=estelle0329@ewha.ac.kr" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooniicode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge">
