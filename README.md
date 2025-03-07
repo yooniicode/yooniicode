@@ -4,7 +4,7 @@
 
 ---
 
-### [Projects](https://www.notion.so/1affc8937f6580eeaea0de44ecb13b9f?pvs=21)
+#### [Projects.](https://www.notion.so/1affc8937f6580eeaea0de44ecb13b9f?pvs=21)
 
 - **2023/6 - 2023/10** : 교내 중앙동아리 UI/UX 프로젝트 진행  
 - **2024/7 - 2024/8** : **<PicoPitch>** `BE lead` | 개인의 발표 관리를 돕는 서비스  
@@ -13,7 +13,7 @@
 
 ---
 
-### Studies
+#### Studies.
 
 - **2023/7 - 2023/11** : 데이터 분석, 머신러닝 스터디 진행  
 - **2024/1 - 2024/2** : `LG AImers 4기 해커톤`, `혼공학습단 11기 이수`  
@@ -23,7 +23,7 @@
 
 ---
 
-#### 🎨 Tech Stack  
+#### Tech Stacks
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma Badge">
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" alt="Illustrator Badge">
@@ -48,7 +48,7 @@
 
 ---
 
-#### ✉️ Contact Me !
+#### Contact Me ! (❤️´艸｀❤️)
 <p align="left">
   <a href="mailto:estelle0329@ewha.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
