@@ -4,15 +4,22 @@
 
 ---
 
-#### 📱 Social Media  
-<p align="left">
-  <a href="https://www.instagram.com/pdxvhdx/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a href="https://www.yoonicode.site/">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion Badge">
-  </a>
-</p>
+### [Projects](https://www.notion.so/1affc8937f6580eeaea0de44ecb13b9f?pvs=21)
+
+- **2023/6 - 2023/10** : 교내 중앙동아리 UI/UX 프로젝트 진행  
+- **2024/7 - 2024/8** : **<PicoPitch>** `BE lead` | 개인의 발표 관리를 돕는 서비스  
+- **2024/3 - 2024/8** : **<홀로서기>** `FE, PM, Design` | 노인의 키오스크 사용을 돕는 서비스  
+- **2024/12 - 2025/2** : **<Edison>** `BE` | AI를 이용하여 시각화해주는 메모 서비스  
+
+---
+
+### Studies
+
+- **2023/7 - 2023/11** : 데이터 분석, 머신러닝 스터디 진행  
+- **2024/1 - 2024/2** : `LG AImers 4기 해커톤`, `혼공학습단 11기 이수`  
+- **2024/2 - 2024/8** : `UMC EWHA 6기 운영진 (Server, Node.js 파트장)`  
+- **2024/8 - 2024/12** : `UMC EWHA 7기 SpringBoot 스터디장`  
+- **2025/2 ~** : `UMC EWHA 8기 운영진 (회장, SpringBoot 파트장)`  
 
 ---
 
@@ -48,5 +55,11 @@
   </a>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooniicode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge">
+  </a>
+    <a href="https://www.instagram.com/pdxvhdx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+  <a href="https://www.yoonicode.site/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion Badge">
   </a>
 </p>
