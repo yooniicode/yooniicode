@@ -6,7 +6,7 @@
 
 <div style="background-color:#ffecb3; padding:10px; border-radius:10px;">
   
-### 📌 Projects
+#### Projects
 
 - 2023/6 - 2023/10 : 교내 중앙동아리 UI/UX 프로젝트 진행  
 - 2024/7 - 2024/8 : PicoPitch | BE lead | 개인의 발표 관리를 돕는 서비스  
@@ -19,7 +19,7 @@
 
 <div style="background-color:#c8e6c9; padding:10px; border-radius:10px;">
   
-### 📚 Studies
+#### Studies
 
 - 2023/7 - 2023/11 : 데이터 분석, 머신러닝 스터디 진행  
 - 2024/1 - 2024/2 : LG AImers 4기 해커톤, 혼공학습단 11기 이수  
@@ -31,11 +31,11 @@
 
 ---
 
-### 🔧 Tech Stacks (분야별 정리)
+#### Tech Stacks
 
 <div style="background-color:#E3F2FD; padding:10px; border-radius:10px;">
   
-### 🎨 Frontend  
+##### Frontend  
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript Badge">
@@ -46,7 +46,7 @@
 
 <div style="background-color:#E8F5E9; padding:10px; border-radius:10px;">
   
-### 🛠 Backend  
+##### Backend  
 <p align="left">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" alt="Spring Boot Badge">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js Badge">
@@ -59,7 +59,7 @@
 
 <div style="background-color:#FFF9C4; padding:10px; border-radius:10px;">
   
-### ☁️ Cloud & Database  
+##### Cloud & Database  
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare Badge">
@@ -70,7 +70,7 @@
 
 <div style="background-color:#FFE0B2; padding:10px; border-radius:10px;">
   
-### 🤖 AI & Data  
+##### AI & Data  
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch Badge">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="Tensorflow Badge">
@@ -80,7 +80,7 @@
 
 <div style="background-color:#FCE4EC; padding:10px; border-radius:10px;">
   
-### 🎨 Design  
+##### Design  
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma Badge">
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white" alt="Illustrator Badge">
@@ -88,9 +88,20 @@
 
 </div>
 
+<div style="background-color:#EDE7F6; padding:10px; border-radius:10px;">
+  
+##### Collaboration  
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white" alt="Discord Badge">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack Badge">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub Badge">
+</p>
+
+</div>
+
 ---
 
-### 💌 Contact Me (❤️´艸｀❤️)
+##### Contact Me (❤️´艸｀❤️)
 <p align="left">
   <a href="mailto:estelle0329@ewha.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
