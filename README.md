@@ -11,8 +11,6 @@
 - **2024/3 - 2024/8** : **<홀로서기>** `FE, PM, Design` | 노인의 키오스크 사용을 돕는 서비스  
 - **2024/12 - 2025/2** : **<Edison>** `BE` | AI를 이용하여 시각화해주는 메모 서비스  
 
----
-
 #### Studies.
 
 - **2023/7 - 2023/11** : 데이터 분석, 머신러닝 스터디 진행  
@@ -21,7 +19,6 @@
 - **2024/8 - 2024/12** : `UMC EWHA 7기 SpringBoot 스터디장`  
 - **2025/2 ~** : `UMC EWHA 8기 운영진 (회장, SpringBoot 파트장)`  
 
----
 
 #### Tech Stacks
 <p align="left">
@@ -45,8 +42,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch Badge">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="Tensorflow Badge">
 </p>
-
----
 
 #### Contact Me ! (❤️´艸｀❤️)
 <p align="left">
