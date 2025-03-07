@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div style="background-color:#c8e6c9; padding:10px; border-radius:10px;">
   
 #### Studies
