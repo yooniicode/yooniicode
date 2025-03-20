@@ -2,7 +2,7 @@
 ##### 도전을 즐기는 개발자가 되고자 합니다!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooniicode)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooniicode)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
