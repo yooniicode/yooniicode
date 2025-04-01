@@ -116,8 +116,9 @@
   </a>
 </p>
 
-<p align="center">
-    <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooniicode&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge">
-  </a>
-</p>
+<div style="position: fixed; bottom: 10px; right: 10px;">
+  <a href='http://www.freevisitorcounters.com'>Freevisitorcounters</a>
+  <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=32a967e5c0dcec98fe91aa55896ce97aac9c4a34'></script>
+  <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1322138/t/1"></script>
+</div>
+
