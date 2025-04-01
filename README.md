@@ -116,9 +116,4 @@
   </a>
 </p>
 
-<div style="position: fixed; bottom: 10px; right: 10px;">
-  <a href='http://www.freevisitorcounters.com'>Freevisitorcounters</a>
-  <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=32a967e5c0dcec98fe91aa55896ce97aac9c4a34'></script>
-  <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1322138/t/1"></script>
-</div>
-
+ ![count](https://count.getloli.com/get/@yooniicode.repo?theme=rule34)
