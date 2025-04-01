@@ -116,4 +116,4 @@
   </a>
 </p>
 
- ![count](https://count.getloli.com/get/@yooniicode.repo?theme=rule34)
+![Hits](https://hits.sh/github.com/yooniicode.svg?style=flat-square&color=grey&label=visits)
