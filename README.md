@@ -28,7 +28,7 @@
 - 2024/1 - 2024/2 : LG AImers 4기 해커톤, 혼공학습단 11기 이수  
 - 2024/2 - 2024/8 : UMC EWHA 6기 운영진 (Server, Node.js 파트장)  
 - 2024/8 - 2024/12 : UMC EWHA 7기 SpringBoot 스터디장  
-- 2025/2 ~ : UMC EWHA 8기 운영진 (회장, SpringBoot 파트장)  
+- 2025/2 ~ : UMC EWHA 8기 회장 (SpringBoot 파트장)  
 
 </div>
 
