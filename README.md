@@ -1,5 +1,4 @@
 ### 제 잔디밭에 어서오세요.. *.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*
-##### 도전을 즐기는 개발자가 되고자 합니다!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooniicode)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,19 +17,6 @@
 - 2025/11: 다중 시각 특징 분석을 이용한 경구약제 식별 시스템
     - 2025학년도 인공지능전공 캡스톤디자인 경진대회 대상 수상
 - 2025/10 ~ : DiggIndie | BE
-
-</div>
-
-<div style="padding:10px; border-radius:10px;">
-
-#### Studies
-
-- 2023/7 - 2023/11 : 데이터 분석, 머신러닝 스터디 진행
-- 2024/1 - 2024/2 : LG AImers 4기, 혼공학습단 11기 이수
-- 2024/2 - 2024/8 : UMC EWHA 6기 운영진 (Server, Node.js 파트장)
-- 2024/8 - 2024/12 : UMC EWHA 7기 SpringBoot 스터디장
-- 2025/2 - 2025/8 : UMC EWHA 8기 회장 (SpringBoot 파트장)
-- 2025/9 ~ : 신촌 연합 IT 창업 동아리 CEOS 백엔드
 
 </div>
 
