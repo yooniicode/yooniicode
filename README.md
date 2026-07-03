@@ -1,40 +1,17 @@
 <div align="center">
 
-
 <br>
 
 ## **Bridging intelligent models with scalable backend systems!**
 
-`AI/ML Integration` · `Spring Boot Backend` · `Data Pipeline` · `Cloud Infrastructure`
+`Spring Boot Backend` · `Cloud Infrastructure` · `AI/ML Integration` · `Data Pipeline`
 
 B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 <br>
 
 </div>
 
-#### Architecture Interests
-
-```
-[AI / ML]
- ├─ Pill OCR (YOLO + ResNet-50)
- ├─ RAG Pipeline (Embedding + LLM)
- └─ Pattern Recognition / Data Science
-
-[Backend]
- ├─ 🧑‍🚀 Spring Boot API Services
- ├─ FastAPI Integration
- ├─ OAuth2 & JWT Auth Systems
- └─ Database Modeling (MySQL · PostgreSQL · Redis)
-
-[Infrastructure]
- ├─ 🧑‍🚀 Docker & CI/CD Pipeline
- ├─ AWS · Cloudflare
- └─ Nginx · GitHub Actions
-```
-
-<br>
-
-<details>
+<details open>
 <summary><h4>🛠️ Tech Stack</h4></summary>
 
 <br>
@@ -48,8 +25,19 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</p>
+
+###### Frontend
+
+> 웹 UI · 상태 관리 · 다국어
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
 </p>
 
 ###### AI / ML
@@ -58,10 +46,11 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
@@ -71,6 +60,7 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 <p>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
@@ -78,6 +68,7 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
@@ -106,11 +97,14 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 | Project | Period | Role | Description | Tech |
 |---------|--------|------|-------------|------|
-| **[Edison](https://github.com/UMC-Edison/Edison-Server)** | 2024/12 ~ | BE, AI | 사용자의 사고 흐름을 위한 메모 AI 시각화 서비스 | `Spring Boot` · `FastAPI` · `Docker` · `AWS` |
+| **[Edison](https://github.com/UMC-Edison/Edison-Server)** | 2024/12 ~ | BE, AI | 사용자의 사고 흐름을 위한 메모 AI 시각화 서비스 | `Spring Boot` · `FastAPI` · `Doc2Vec` · `pgvector` · `Docker` · `AWS` |
 | | | | 🏆 데모데이 우수상 · 연세대 IHEI 워크스테이션 · 한이음 드림업 멘토링 · 서울시 일자리 박람회 전시 | |
-| **[CV-pillOCR](https://github.com/yooniicode/CV-pillOCR)** | 2025/11 | AI | 다중 시각 특징 분석을 이용한 경구약제 식별 시스템 | `Python` · `PyTorch` · `YOLO` · `ResNet-50` |
+| **[CV-pillOCR](https://github.com/yooniicode/CV-pillOCR)** | 2025/11 | AI | 다중 시각 특징 분석을 이용한 경구약제 식별 시스템 | `Python` · `PyTorch` · `YOLO` · `ResNet-50` · `OCR` |
 | | | | 🏆 인공지능전공 캡스톤디자인 경진대회 **대상** 수상 | |
-| **[RAG Pipeline](https://github.com/25-2-NLP-team-01/NLP-repo)** | | AI | Upstage Solar + ChromaDB 기반 학술 QA 시스템 | `Python` · `LangChain` · `ChromaDB` · `RAPTOR` |
+| **[RAG Pipeline](https://github.com/25-2-NLP-team-01/NLP-repo)** | 2025/2학기 | AI | Upstage Solar + FAISS 하이브리드 검색 기반 한국어 QA 시스템 (BM25+dense RRF, cross-encoder rerank) | `Python` · `LangChain` · `FAISS` · `Solar` |
+| **NegVQA** *(연구)* | 2026/3 ~| AI | VLM의 부정 표현 처리 실패 분석 및 Activation Steering 연구 (AI Living Lab) | `Python` · `Qwen2.5-VL` · `Pixtral` · `Activation Steering` |
+| **[Baymax](https://github.com/26-1-IR/Baymax-IR)** | 2026/1학기 | AI | YOLOv8 기반 슬롯 점유 판단 및 Nav2 연동 ROS 2 자율 주차 시뮬레이션 | `Python` · `ROS 2` · `YOLOv8` · `Nav2` · `Gazebo` |
+| | | | 🏆 지능형로보틱스 **우수프로젝트** 선정 | |
 
 <br>
 
@@ -118,14 +112,19 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 | Project | Period | Role | Description | Tech |
 |---------|--------|------|-------------|------|
-| **[DiggIndie](https://github.com/DiggIndie)** | 2025/10 ~ | BE | Spotify API 연동 인디밴드 발굴 플랫폼 | `Spring Boot` · `PostgreSQL` · `Redis` · `Spotify API` |
-| **[Co:N-next](https://github.com/Co-N-next)** | 2025/10 ~ | BE Lead | 공연장 네비게이션 서비스 | `Spring Boot` · `PostgreSQL` · `Docker` |
-| **[GongSpot](https://github.com/Gongspot)** | 2025/6 ~ 9 | BE Lead | 청년을 위한 공부 지도 | `Spring Boot` · `MySQL` · `AWS` |
+| **[CURA](https://github.com/yooniicode/TFI-26-1-archive)** | 2026/1 ~ | FE, BE | 사회적 포용을 위한 이주민-통번역가 매칭 & AI 진료 번역 플랫폼 | `Next.js` · `Spring Boot` · `Supabase` · `Gemini API` |
+| | | | 🏆 카카오 테크포임팩트 **혁신기술상(1위)** | |
+| **[Chattr](https://github.com/aws-cloud-clubs/2026-ACC-EWHA-CHATTR-BE)** | 2026 ~ | BE, Infra | AWS 클라우드 네이티브 Slack형 실시간 채팅 서비스 | `Spring Boot` · `WebSocket/STOMP` · `DynamoDB` · `ECS Fargate` · `Terraform` |
+| **[STORIX](https://github.com/Team-STORIX)** | 2026 ~ | BE | 웹툰·웹소설 팬덤 플랫폼 | `Spring Boot` · `헥사고날` · `멀티모듈` · `Spring Batch` · `Selenium` |
+| | | | 🏆 창업진흥원 예비창업패키지 선정 | |
+| **[DiggIndie](https://github.com/DiggIndie)** | 2025/10 ~ | BE, AI, Infra | 인디밴드 팬덤 커뮤니티 플랫폼 (AI 밴드 추천) | `Spring Boot` · `FastAPI` · `pgvector` · `Redis` · `Terraform` |
+| **[Co:N-next](https://github.com/Co-N-next)** | 2025/10 ~ | BE Lead | 공연장 내외부 길찾기 & 메이트 위치 공유 서비스 | `Spring Boot` · `MySQL` · `JTS` · `Redis` · `Docker` |
+| **[GongSpot](https://github.com/Gongspot)** | 2025/6 ~ 9 | BE Lead | 청년을 위한 공부 지도 (학습공간 혼잡도·리뷰 공유) | `Spring Boot` · `MySQL` · `Redis` · `AWS` |
 | | | | 🏆 서울시 일자리 박람회 전시 | |
-| **[Gatcha!](https://github.com/2025-DB-team-join/Gotcha)** | 2025/5 ~ 6 | PM, BE | 1인 가구를 위한 소모임 기반 라이프 플랫폼 | `Java` · `MySQL` |
+| **[Gotcha!](https://github.com/2025-DB-team-join/Gotcha)** | 2025/5 ~ 6 | PM, BE | 1인 가구를 위한 소모임 기반 라이프 플랫폼 (같자) | `Java` · `MySQL` |
 | **[스팟잇 Spot It](https://github.com/NeodinaryHackathon-teamE)** | 2025/5 | BE | 시민 제보 기반 도시 문제 해결 지도 플랫폼 | `Spring Boot` · `MySQL` |
 | **[UMC Spring Boot](https://github.com/yooniicode/umc-8th-springboot)** | | BE | UMC 7-8기 Spring Boot 스터디 | `Java` · `Spring Boot` |
-| **[CEOS](https://github.com/yooniicode/spring-cgv-22nd)** | | BE | Ceos 22nd Spring Boot 스터디 | `Java` · `Spring Boot` |
+| **[CEOS](https://github.com/yooniicode/spring-cgv-22nd)** | 2025/9 ~ 2026/7 | BE | Ceos 22nd Spring Boot 스터디 및 23rd 운영진 | `Java` · `Spring Boot` |
 
 </details>
 
@@ -138,7 +137,7 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 <!-- 🔥 GitHub Streak Stats -->
 <a href="https://github.com/yooniicode">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooniicode&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=yooniicode&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br><br>
@@ -153,12 +152,12 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 <!-- 📈 Profile Summary Cards -->
 <a href="https://github.com/yooniicode">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yooniicode&theme=transparent" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yooniicode&theme=transparent" alt="Profile Details"/>
 </a>
 
 <a href="https://github.com/yooniicode">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yooniicode&theme=transparent&utcOffset=9" alt="Productive Time"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yooniicode&theme=transparent" alt="Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yooniicode&theme=transparent&utcOffset=9" alt="Productive Time"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yooniicode&theme=transparent" alt="Stats"/>
 </a>
 
 </div>
