@@ -105,6 +105,8 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 | **NegVQA** *(연구)* | 2026/3 ~| AI | VLM의 부정 표현 처리 실패 분석 및 Activation Steering 연구 (AI Living Lab) | `Python` · `Qwen2.5-VL` · `Pixtral` · `Activation Steering` |
 | **[Baymax](https://github.com/26-1-IR/Baymax-IR)** | 2026/1학기 | AI | YOLOv8 기반 슬롯 점유 판단 및 Nav2 연동 ROS 2 자율 주차 시뮬레이션 | `Python` · `ROS 2` · `YOLOv8` · `Nav2` · `Gazebo` |
 | | | | 🏆 지능형로보틱스 **우수프로젝트** 선정 | |
+| **[입양하개 AdoptAI](https://github.com/AI-Rookie-AdoptAI)** | 2026/1학기 ~ | FE, BE, AI | 채팅 기반 AI 동물 입양 공고 자동 생성 & 다중 플랫폼 배포 서비스 | `Next.js` · `FastAPI` · `PostgreSQL` · `Claude API` · `Whisper` |
+| | | | 과학기술정보통신부 주최 AI Rookie 대회 출품작 | |
 
 <br>
 
@@ -112,18 +114,18 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 | Project | Period | Role | Description | Tech |
 |---------|--------|------|-------------|------|
-| **[CURA](https://github.com/yooniicode/TFI-26-1-archive)** | 2026/1 ~ | FE, BE | 사회적 포용을 위한 이주민-통번역가 매칭 & AI 진료 번역 플랫폼 | `Next.js` · `Spring Boot` · `Supabase` · `Gemini API` |
+| **[CURA](https://github.com/yooniicode/TFI-26-1-archive)** | 2026/1학기 ~ | FE, BE | 사회적 포용을 위한 이주민-통번역가 매칭 & AI 진료 번역 플랫폼 | `Next.js` · `Spring Boot` · `Supabase` · `Gemini API` |
 | | | | 🏆 카카오 테크포임팩트 **혁신기술상(1위)** | |
-| **[Chattr](https://github.com/aws-cloud-clubs/2026-ACC-EWHA-CHATTR-BE)** | 2026 ~ | BE, Infra | AWS 클라우드 네이티브 Slack형 실시간 채팅 서비스 | `Spring Boot` · `WebSocket/STOMP` · `DynamoDB` · `ECS Fargate` · `Terraform` |
-| **[STORIX](https://github.com/Team-STORIX)** | 2026 ~ | BE | 웹툰·웹소설 팬덤 플랫폼 | `Spring Boot` · `헥사고날` · `멀티모듈` · `Spring Batch` · `Selenium` |
-| | | | 🏆 창업진흥원 예비창업패키지 선정 | |
-| **[DiggIndie](https://github.com/DiggIndie)** | 2025/10 ~ | BE, AI, Infra | 인디밴드 팬덤 커뮤니티 플랫폼 (AI 밴드 추천) | `Spring Boot` · `FastAPI` · `pgvector` · `Redis` · `Terraform` |
-| **[Co:N-next](https://github.com/Co-N-next)** | 2025/10 ~ | BE Lead | 공연장 내외부 길찾기 & 메이트 위치 공유 서비스 | `Spring Boot` · `MySQL` · `JTS` · `Redis` · `Docker` |
+| **[Chattr](https://github.com/aws-cloud-clubs/2026-ACC-EWHA-CHATTR-BE)** | 2026/1학기 | BE, Infra | AWS 클라우드 네이티브 Slack형 실시간 채팅 서비스 | `Spring Boot` · `WebSocket/STOMP` · `DynamoDB` · `ECS Fargate` · `Terraform` |
+| **[STORIX](https://github.com/Team-STORIX)** | 2026/1학기 ~ | BE | 웹툰·웹소설 팬덤 플랫폼 | `Spring Boot` · `헥사고날` · `멀티모듈` · `Spring Batch` · `Selenium` |
+| | | | 🏆 **창업진흥원 예비창업패키지** 선정 | |
+| **[DiggIndie](https://github.com/DiggIndie)** | 2025/2학기 | BE, AI, Infra | 인디밴드 팬덤 커뮤니티 플랫폼 (AI 밴드 추천) | `Spring Boot` · `FastAPI` · `pgvector` · `Redis` · `Terraform` |
+| **[Co:N-next](https://github.com/Co-N-next)** | 2025/2학기 | BE Lead | 공연장 내외부 길찾기 & 메이트 위치 공유 서비스 | `Spring Boot` · `MySQL` · `JTS` · `Redis` · `Docker` |
 | **[GongSpot](https://github.com/Gongspot)** | 2025/6 ~ 9 | BE Lead | 청년을 위한 공부 지도 (학습공간 혼잡도·리뷰 공유) | `Spring Boot` · `MySQL` · `Redis` · `AWS` |
 | | | | 🏆 서울시 일자리 박람회 전시 | |
 | **[Gotcha!](https://github.com/2025-DB-team-join/Gotcha)** | 2025/5 ~ 6 | PM, BE | 1인 가구를 위한 소모임 기반 라이프 플랫폼 (같자) | `Java` · `MySQL` |
 | **[스팟잇 Spot It](https://github.com/NeodinaryHackathon-teamE)** | 2025/5 | BE | 시민 제보 기반 도시 문제 해결 지도 플랫폼 | `Spring Boot` · `MySQL` |
-| **[UMC Spring Boot](https://github.com/yooniicode/umc-8th-springboot)** | | BE | UMC 7-8기 Spring Boot 스터디 | `Java` · `Spring Boot` |
+| **[UMC Spring Boot](https://github.com/yooniicode/umc-8th-springboot)** | | BE | UMC 7-8기 Spring Boot 스터디 및 8기 이화여대 UMC Lead | `Java` · `Spring Boot` |
 | **[CEOS](https://github.com/yooniicode/spring-cgv-22nd)** | 2025/9 ~ 2026/7 | BE | Ceos 22nd Spring Boot 스터디 및 23rd 운영진 | `Java` · `Spring Boot` |
 
 </details>
