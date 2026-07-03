@@ -125,8 +125,8 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 | | | | 🏆 서울시 일자리 박람회 전시 | |
 | **[Gotcha!](https://github.com/2025-DB-team-join/Gotcha)** | 2025/5 ~ 6 | PM, BE | 1인 가구를 위한 소모임 기반 라이프 플랫폼 (같자) | `Java` · `MySQL` |
 | **[스팟잇 Spot It](https://github.com/NeodinaryHackathon-teamE)** | 2025/5 | BE | 시민 제보 기반 도시 문제 해결 지도 플랫폼 | `Spring Boot` · `MySQL` |
-| **[UMC Spring Boot](https://github.com/yooniicode/umc-8th-springboot)** | | BE | UMC 7-8기 Spring Boot 스터디 및 8기 이화여대 UMC Lead | `Java` · `Spring Boot` |
-| **[CEOS](https://github.com/yooniicode/spring-cgv-22nd)** | 2025/9 ~ 2026/7 | BE | Ceos 22nd Spring Boot 스터디 및 23rd 운영진 | `Java` · `Spring Boot` |
+| **[UMC Spring Boot](https://github.com/yooniicode/umc-8th-springboot)** | | BE | 사이드 프로젝트 동아리 UMC 7-8기 Spring Boot 스터디 및 8기 이화여대 UMC Lead | `Java` · `Spring Boot` |
+| **[CEOS](https://github.com/CEOS-Developers)** | 2025/9 ~ 2026/7 | BE | 신촌 연합 창업학회 Ceos 22nd Spring Boot 스터디 및 23rd 운영진 | `Java` · `Spring Boot` |
 
 </details>
 
