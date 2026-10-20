@@ -114,7 +114,7 @@ B.S. Candidate in Artificial Intelligence · Minor in Computer Science
 
 | Project | Period | Role | Description | Tech |
 |---------|--------|------|-------------|------|
-| **[CURA](https://github.com/yooniicode/TFI-26-1-archive)** | 2026/1학기 ~ | FE, BE | 사회적 포용을 위한 이주민-통번역가 매칭 & AI 진료 번역 플랫폼 | `Next.js` · `Spring Boot` · `Supabase` · `Gemini API` |
+| **[CURA](https://github.com/yooniicode/TFI-26-1-ewha-cura)** | 2026/1학기 ~ | FE, BE | 사회적 포용을 위한 이주민-통번역가 매칭 & AI 진료 번역 플랫폼 | `Next.js` · `Spring Boot` · `Supabase` · `Gemini API` |
 | | | | 🏆 카카오 테크포임팩트 **혁신기술상(1위)** | |
 | **[Chattr](https://github.com/aws-cloud-clubs/2026-ACC-EWHA-CHATTR-BE)** | 2026/1학기 | BE, Infra | AWS 클라우드 네이티브 Slack형 실시간 채팅 서비스 | `Spring Boot` · `WebSocket/STOMP` · `DynamoDB` · `ECS Fargate` · `Terraform` |
 | **[STORIX](https://github.com/Team-STORIX)** | 2026/1학기 ~ | BE | 웹툰·웹소설 팬덤 플랫폼 | `Spring Boot` · `헥사고날` · `멀티모듈` · `Spring Batch` · `Selenium` |
